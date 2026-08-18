@@ -1,4 +1,4 @@
-# Keepsy — Privacy Policy
+# Keepsy - Privacy Policy
 
 Source for the Keepsy privacy policy, served via GitHub Pages at
 https://taha-lakdawala.github.io/keepsy-privacy
